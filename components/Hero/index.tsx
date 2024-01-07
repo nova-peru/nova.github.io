@@ -15,7 +15,7 @@ const Hero = () => {
                 data-wow-delay=".2s"
               >
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                  Tu Aliado Tecnológico en la Nueva Era
+                  Tu Aliado Tecnológico en la <p className="break-keep">Nueva Era</p> 
                 </h1>
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
                   Descubre los Servicios Esenciales para dar Vida a tu Visión Empresarial
